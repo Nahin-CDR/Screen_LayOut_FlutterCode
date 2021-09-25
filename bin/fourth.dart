@@ -1,7 +1,7 @@
 
 main() {
 
-  Vehicle myBus = new Vehicle(capacity: 4,no_of_wheel:5,isAC: true);
+  Vehicle myBus = new Vehicle(capacity:4,no_of_wheel:5,isAC:true);
   print(myBus.isAC);
 
 
